@@ -1,0 +1,65 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: dashed;
+    border-radius: 20px;
+    box-shadow: 20px 20px 10px gray;
+}
+
+#feuille {
+    background-image: url("/img/1 feuille orchidee.jpg");
+    background-size: 200px 200px;
+}
+
+#orchidee {
+    background-image: url("/img/orchidee.jpg");
+    background-size: cover;
+    border: solid black;
+}
+
+#orchidee-blanche {
+    background-image: url("/img/orchidee blanche.jpg");
+    background-size: 200px 200px;
+    border-collapse: collapse;
+}
+
+#orchidee-bleu {
+    background-image: url("/img/orchidee bleu.jpg");
+    background-size: contain;
+}
+
+#orchidee-jaune {
+    background-image: url("/img/orchidee jaune.jpg");
+    background-size: 200px 200px;
+    border-bottom-color: blue;
+}
+
+#orchidee-orange {
+    background-image: url("/img/orchidee orange.jpg");
+    background-size: cover;
+    border-bottom-style: double;
+}
+
+#orchidee-verte {
+    background-image: url("/img/orchidee verte.jpg");
+    background-size: 200px 200px;
+    border: dashed greenyellow;
+}
+
+#orchidee-violette {
+    background-image: url("/img/orchidee violette.jpg");
+    background-size: contain;
+    border-collapse: revert;
+}
+
+#orchidee-coeur {
+    background-image: url("/img/orchiee coeur.jpg");
+    background-size: 200px 200px;
+    border-bottom-color: coral;
+}
+
+#phalaenopsis {
+    background-image: url("/img/phalaenopsis.jpg");
+    background-size: cover;
+    border: solid black;
+}
